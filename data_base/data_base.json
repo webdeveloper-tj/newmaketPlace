@@ -1,0 +1,74 @@
+{
+  "mensClothes": [
+    {
+      "id": 1,
+      "title": "Blazer",
+      "dec": "A stylish semi-formal jacket.",
+      "image": "img/blazer.png",
+      "price": 112
+    },
+    {
+      "id": 2,
+      "title": "Tracksuit",
+      "dec": "A comfortable outfit for workouts or lounging.",
+      "image": "img/tracksuit.png",
+      "price": 112
+    },
+    {
+      "id": 3,
+      "title": "Overcoat",
+      "dec": "A long coat worn over clothing for warmth.",
+      "image": "img/overcoat.png",
+      "price": 112
+    },
+    {
+      "id": 4,
+      "title": "Vest",
+      "dec": "A sleeveless upper-body garment.",
+      "image": "img/vest.png",
+      "price": 112
+    },
+    {
+      "id": 5,
+      "title": "Cargo Pants",
+      "dec": "Loose-fitting pants with multiple pockets.",
+      "image": "img/cargo-pants.png",
+      "price": 112
+    },
+    {
+      "id": 6,
+      "title": "Joggers",
+      "dec": "Casual and sporty tapered pants.",
+      "image": "img/joggers.png",
+      "price": 112
+    },
+    {
+      "id": 7,
+      "title": "Denim Jacket",
+      "dec": "A stylish casual jacket made of denim.",
+      "image": "img/denim-jacket.png",
+      "price": 112
+    },
+    {
+      "id": 8,
+      "title": "Leather Jacket",
+      "dec": "A classic, durable jacket made from leather.",
+      "image": "img/leather-jacket.png",
+      "price": 112
+    },
+    {
+      "id": 9,
+      "title": "Sweatpants",
+      "dec": "Comfortable pants for relaxation or exercise.",
+      "image": "img/sweatpants.png",
+      "price": 112
+    },
+    {
+      "id": 10,
+      "title": "Bomber Jacket",
+      "dec": "A short, stylish, zippered jacket.",
+      "image": "img/bomber-jacket.png",
+      "price": 112
+    }
+  ]
+}
